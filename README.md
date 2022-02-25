@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WaleedAlzamil80
+- 👋 Hi, I’m Waleed Alzamil
 - 👀 I’m interested in ML and AI
 - 🌱 I’m currently learning at Faculty of Engineering ain shames
 - 💞️ I’m looking to collaborate on ...
