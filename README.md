@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning at Faculty of Engineering ain shames
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me waleedalzamil80@gmail.com
-
-<!---
-WaleedAlzamil80/WaleedAlzamil80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- And you can also reach me through: likedin linkedin.com/in/waleed-alzamil-150929213
+- Phone : +0201064817201 (Mobile)
+- Address : Cairo, Ain shams
