@@ -4,5 +4,3 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me waleedalzamil80@gmail.com
 - And you can also reach me through: likedin linkedin.com/in/waleed-alzamil-150929213
-- Phone : +0201064817201 (Mobile)
-- Address : Cairo, Ain shams
