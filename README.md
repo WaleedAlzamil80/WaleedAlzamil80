@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning at Faculty of Engineering ain shames
 - 💞️ I’m looking for a machine learning and deep learning engineer intern role
 - 📫 How to reach me waleedalzamil80@gmail.com
-- And you can also reach me through: likedin https://www.linkedin.com/in/waleed-alzamil-150929213/
+- And you can also reach me through: linkedin https://www.linkedin.com/in/waleed-alzamil-150929213/
