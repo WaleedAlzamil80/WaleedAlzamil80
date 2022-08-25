@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Waleed Alzamil
 - 👀 I’m interested in ML and AI
 - 🌱 I’m currently learning at Faculty of Engineering ain shames
-- 💞️ I’m looking for a machine learning and deep learning engineer intern role
+- 💞️ I’m looking for a machine learning and deep learning engineer intern or ml research engineer intern role
 - 📫 How to reach me waleedalzamil80@gmail.com
 - And you can also reach me through: linkedin https://www.linkedin.com/in/waleed-alzamil-150929213/
+- My resume : https://drive.google.com/drive/folders/1uqUYEa_f74WfwDmborQv0UFGEquuHV1x?usp=sharing
