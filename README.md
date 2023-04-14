@@ -10,9 +10,8 @@
 - 💬 Ask me about **DeepLearning, MachineLearning & Engineering**
 
 - 📫 How to reach me **waleedalzamil80@gmail.com**
-[[https://drive.google.com/file/d/1v7wWinzSxempsNYnizeWeODmfQ4ia8Zq/view?usp=share_link] (experiences)]
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1gAs7So4G183pcnQC9AAFuJbHoqfhFJXc/view?usp=share_link](https://drive.google.com/file/d/1lhMIY-xgRArmLlI5Z7RIbXoRAYvK86Xs/view?usp=share_link)]
 
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1v7wWinzSxempsNYnizeWeODmfQ4ia8Zq/view?usp=share_link)]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/waleed-alzamil-150929213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleed alzamil" height="30" width="40" /></a>
