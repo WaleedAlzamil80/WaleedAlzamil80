@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 👨‍💻 Most of my projects are available at [https://github.com/WaleedAlzamil80](https://github.com/WaleedAlzamil80)
+- 👨‍💻 Most of my projects are available [here](https://github.com/WaleedAlzamil80)
 
 - 💬 Ask me about **DeepLearning, MachineLearning & Engineering**
 
