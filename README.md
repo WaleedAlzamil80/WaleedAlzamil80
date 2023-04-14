@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ASU Racing team](https://github.com/WaleedAlzamil80/ASU-Racing-Team-Formula-AI-and-Shell-AI-AI-and-Robotics-Workshop/tree/main/AI%20workshop)
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning more about **Deep Learning, Attention, LLM, GANS and deployment**
 
 - 👨‍💻 Most of my projects are available [here](https://github.com/WaleedAlzamil80)
 
