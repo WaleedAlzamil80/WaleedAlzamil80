@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waleed Alzamil</h1>
 <h3 align="center">A Junior Student at Faculty of Engineering Ain Shams University</h3>
 
-- 🔭 I’m currently working on [ASU Racing team](https://github.com/WaleedAlzamil80/ASU-Racing-Team-Formula-AI-and-Shell-AI-AI-and-Robotics-Workshop/tree/main/AI%20workshop)
+- 🔭 I’m currently working with [ASU Racing team](https://github.com/WaleedAlzamil80/ASU-Racing-Team-Formula-AI-and-Shell-AI-AI-and-Robotics-Workshop/tree/main/AI%20workshop)
 
 - 🌱 I’m currently learning more about **Deep Learning, Attention, LLM, GANS and deployment**
 
