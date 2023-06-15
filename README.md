@@ -27,9 +27,7 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch" width="60" height="40"/> </a>
 <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.ti.com/tool/SW-TM4C" target="_blank" rel="noreferrer"> <img src="https://www.ti.com/diagrams/medium/tm4c123gh6pm.jpg" alt="ARM M-CorTex TM4C123gh6pm" width="40" height="40"/> </a>
-<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.ros.org/wp-content/uploads/2013/10/rosorg-logo1.png" alt="ROS" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/octave/" target="_blank" rel="noreferrer"> <img src="https://www.gnu.org/software/octave/img/octave-logo.svg" alt="octave" width="40" height="40"/> </a>
 </p>
