@@ -14,8 +14,22 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/waleed-alzamil-150929213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleed alzamil" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/waleedalzamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="waleed alzamil" height="30" width="40" /></a>
-</p>
 
+<!-- <img width="30"src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> -->
+<br>
+<div align="center">
+<!--   https://uigradients.com/#ClearSky -->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAlzamil80&layout=compact&theme=transparent&langs_count=8&line_height=25&card_width=300&title_color=fff&text_color=fff&border_color=fff&hide_border=true&bg_color=0,005C97,363795) ![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaleedAlzamil80&custom_title=Waleed's%20GitHub%20Stats&theme=transparent&show_icons=true&rank_icon=github&line_height=24&icon_color=fff&title_color=fff&text_color=fff&border_color=EA2027&hide_border=true&bg_color=0,363795,005C97)
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WaleedAlzamil80/WaleedAlzamil80/snake/github-snake-dark.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WaleedAlzamil80/WaleedAlzamil80/snake/github-snake.svg" />
+	<img alt="github-snake" src="https://raw.githubusercontent.com/WaleedAlzamil80/WaleedAlzamil80/snake/github-snake.svg" />
+</picture>
+
+</p>
 <h3 align="left">Languages and Tools:</h3><p align="left">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch" width="80" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
