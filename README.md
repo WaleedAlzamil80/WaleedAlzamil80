@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waleed Alzamil</h1>
 <h3 align="center">A Senior-1 Student at Faculty of Engineering Ain Shams University</h3>
 
-- 🌱 I’m currently learning more about **Deep Learning, Attention, Transformers, GANS, LLM and deployment**
+- 🌱 I’m currently learning more about **Deep Learning**, specifically about **Self-Supervised Learning, Unsupervised Learning, Reinforcement Learning**
 
 - 👨‍💻 Most of my projects are available [here](https://github.com/WaleedAlzamil80)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **waleedalzamil80@gmail.com**
 
-- 📄 [My resume](https://drive.google.com/file/d/1XFn3EB3kIfHHBHq0H2mxCuDS6ET9I1Me/view?usp=sharing)
+- 📄 [My resume](https://drive.google.com/file/d/1Pj1LHIdNk6RhTVlguL6Gsexj14BNLKTa/view?usp=sharing)
 
 <!-- <img width="30"src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> -->
 <br>
