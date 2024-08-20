@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waleed Alzamil</h1>
-<h3 align="center">A Senior-1 Student at Faculty of Engineering Ain Shams University</h3>
+<h3 align="center">A Senior-2 Student at Faculty of Engineering Ain Shams University</h3>
 
 - 🌱 I’m currently learning more about **Deep Learning**, specifically about **Self-Supervised Learning, Unsupervised Learning, Reinforcement Learning**
 
