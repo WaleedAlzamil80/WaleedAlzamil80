@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **waleedalzamil80@gmail.com**
 
-- 📄 [My resume](https://drive.google.com/file/d/1H2YRaph11ieZ8U5bsIf5-A7fqOY8E9yh/view?usp=drive_link)
-
 <!-- <img width="30"src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> -->
 <br>
 <div align="center">
