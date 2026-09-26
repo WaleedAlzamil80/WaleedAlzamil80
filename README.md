@@ -1,40 +1,38 @@
-<h1 align="center">Hi 👋, I'm Waleed Alzamil</h1>
-<h3 align="center">A Senior-2 Student at Faculty of Engineering Ain Shams University</h3>
+## Waleed Alzamil
 
-- 🌱 I’m currently learning more about **Deep Learning**, specifically about **Self-Supervised Learning, Unsupervised Learning, Reinforcement Learning**
+Google DeepMind Scholar reading for an **MSc in AI for Science** at [AIMS](https://aims.ac.za/), Cape Town. I work on **geometric and topological deep learning** — learning directly from 3D structure and from graphs, rather than flattening them into tables first. Previously an ML engineer at ClearSky.ai; heading toward a PhD in applied mathematics and AI.
 
-- 👨‍💻 Most of my projects are available [here](https://github.com/WaleedAlzamil80)
+[Portfolio](https://waleedalzamil80.github.io) · [LinkedIn](https://linkedin.com/in/waleedalzamil80) · [CV](https://waleedalzamil80.github.io/resume.pdf) · <waleedalzamil80@gmail.com>
 
-- 💬 Ask me about **DeepLearning, MachineLearning & Engineering**
+---
 
-- 📫 How to reach me **waleedalzamil80@gmail.com**
+### Selected work
 
-<!-- <img width="30"src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> -->
-<br>
-<div align="center">
-<!--   https://uigradients.com/#ClearSky -->
+**[Between Text and Events: Process Context Graph (ProCG)](https://waleedalzamil80.github.io/publications/ProCG_ICPM2026.pdf)** — accepted at ICPM 2026
 
+> Modelling business processes as graphs that preserve the context unstructured sources carry, instead of flattening emails and notes into event-log rows.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAlzamil80&layout=compact&theme=transparent&langs_count=8&line_height=25&card_width=300&title_color=fff&text_color=fff&border_color=fff&hide_border=true&bg_color=0,005C97,363795) ![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaleedAlzamil80&custom_title=Waleed's%20GitHub%20Stats&theme=transparent&show_icons=true&rank_icon=github&line_height=24&icon_color=fff&title_color=fff&text_color=fff&border_color=EA2027&hide_border=true&bg_color=0,363795,005C97)
+**[AI-Automated Dental Crown Generation](https://waleedalzamil80.github.io/projects/crown.html)** — [`3DModels`](https://github.com/WaleedAlzamil80/3DModels)
 
-</p>
-<h3 align="left">Languages and Tools:</h3><p align="left">
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch" width="80" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/octave/" target="_blank" rel="noreferrer"> <img src="https://www.gnu.org/software/octave/img/octave-logo.svg" alt="octave" width="40" height="40"/> </a>
-</p>
+> Graduation project. Point-cloud segmentation into 33 classes at 95% accuracy, a self-supervised canonical alignment network with SVD projection onto SO(3), and margin-line estimation. The segmentation model ships as a [Dockerised FastAPI service](https://github.com/WaleedAlzamil80/3d-teeth-segmentation-deployment).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/waleed-alzamil-150929213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleed alzamil" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/waleedalzamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="waleed alzamil" height="30" width="40" /></a>
+**[DeepLense — Vision Foundation Model](https://waleedalzamil80.github.io/projects/deeplense.html)** — [`deeplense25`](https://github.com/WaleedAlzamil80/deeplense25)
+
+> Masked autoencoder pretrained on strong gravitational lensing images, then fine-tuned twice: dark-matter substructure classification at 99.67% AUC, and super-resolution at 29.62 dB PSNR.
+
+**[Othello AI](https://waleedalzamil80.github.io/projects/othello-ai.html)** — [`Othello-AI`](https://github.com/WaleedAlzamil80/Othello-AI)
+
+> Minimax, alpha-beta, MCTS and an AlphaZero-style self-play actor-critic in one engine, so they can play each other.
+
+---
+
+### Working with
+
+- **Languages** — Python, C++
+- **Learning** — PyTorch, TensorFlow, Hugging Face, DSPy, LangGraph
+- **3D & vision** — point clouds (DGCNN, PCT), Gaussian Splatting, OpenCV, ROS
+- **Systems** — FastAPI, Docker, PostgreSQL, MongoDB, Linux, Azure
+
+### Interested in
+
+Geometric deep learning · topological deep learning · graph neural networks · applied mathematics
