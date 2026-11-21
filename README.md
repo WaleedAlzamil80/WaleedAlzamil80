@@ -8,6 +8,10 @@ Google DeepMind Scholar reading for an **MSc in AI for Science** at [AIMS](https
 
 ### Selected work
 
+**[Does a Diffusion Model's Path Show Which Images Are Hard to See?](https://waleedalzamil80.github.io/projects/diffusion-path.html)** — course project, AIMS 2026
+
+> Records the internal path of a diffusion model (DiT-XL/2) while it rebuilds 2,229 ImageNet images, and tests on 1,000 held-out images whether that path predicts how long people need to see each one, beyond the model's own confidence. It does, partly: early snapshots and the order of the steps add information; for the model's own errors the signal is weak.
+
 **[Between Text and Events: Process Context Graph (ProCG)](https://waleedalzamil80.github.io/publications/ProCG_ICPM2026.pdf)** — accepted at ICPM 2026
 
 > Modelling business processes as graphs that preserve the context unstructured sources carry, instead of flattening emails and notes into event-log rows.
@@ -35,4 +39,4 @@ Google DeepMind Scholar reading for an **MSc in AI for Science** at [AIMS](https
 
 ### Interested in
 
-Geometric deep learning · topological deep learning · graph neural networks · applied mathematics
+Geometric deep learning · topological deep learning · graph neural networks · topology of model internals · applied mathematics
